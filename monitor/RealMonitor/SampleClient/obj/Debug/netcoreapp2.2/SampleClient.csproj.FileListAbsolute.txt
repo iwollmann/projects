@@ -1,0 +1,14 @@
+C:\Projects\monitor\RealMonitor\SampleClient\bin\Debug\netcoreapp2.2\SampleClient.deps.json
+C:\Projects\monitor\RealMonitor\SampleClient\bin\Debug\netcoreapp2.2\SampleClient.runtimeconfig.json
+C:\Projects\monitor\RealMonitor\SampleClient\bin\Debug\netcoreapp2.2\SampleClient.runtimeconfig.dev.json
+C:\Projects\monitor\RealMonitor\SampleClient\bin\Debug\netcoreapp2.2\SampleClient.dll
+C:\Projects\monitor\RealMonitor\SampleClient\bin\Debug\netcoreapp2.2\SampleClient.pdb
+C:\Projects\monitor\RealMonitor\SampleClient\obj\Debug\netcoreapp2.2\SampleClient.csprojAssemblyReference.cache
+C:\Projects\monitor\RealMonitor\SampleClient\obj\Debug\netcoreapp2.2\SampleClient.csproj.CoreCompileInputs.cache
+C:\Projects\monitor\RealMonitor\SampleClient\obj\Debug\netcoreapp2.2\SampleClient.AssemblyInfoInputs.cache
+C:\Projects\monitor\RealMonitor\SampleClient\obj\Debug\netcoreapp2.2\SampleClient.AssemblyInfo.cs
+C:\Projects\monitor\RealMonitor\SampleClient\obj\Debug\netcoreapp2.2\SampleClient.dll
+C:\Projects\monitor\RealMonitor\SampleClient\obj\Debug\netcoreapp2.2\SampleClient.pdb
+C:\Projects\monitor\RealMonitor\SampleClient\bin\Debug\netcoreapp2.2\Models.dll
+C:\Projects\monitor\RealMonitor\SampleClient\bin\Debug\netcoreapp2.2\Models.pdb
+C:\Projects\monitor\RealMonitor\SampleClient\obj\Debug\netcoreapp2.2\SampleClient.csproj.CopyComplete

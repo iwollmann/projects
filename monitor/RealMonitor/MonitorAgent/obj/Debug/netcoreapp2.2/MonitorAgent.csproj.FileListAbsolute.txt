@@ -1,0 +1,14 @@
+C:\Projects\monitor\RealMonitor\MonitorAgent\bin\Debug\netcoreapp2.2\MonitorAgent.deps.json
+C:\Projects\monitor\RealMonitor\MonitorAgent\bin\Debug\netcoreapp2.2\MonitorAgent.runtimeconfig.json
+C:\Projects\monitor\RealMonitor\MonitorAgent\bin\Debug\netcoreapp2.2\MonitorAgent.runtimeconfig.dev.json
+C:\Projects\monitor\RealMonitor\MonitorAgent\bin\Debug\netcoreapp2.2\MonitorAgent.dll
+C:\Projects\monitor\RealMonitor\MonitorAgent\bin\Debug\netcoreapp2.2\MonitorAgent.pdb
+C:\Projects\monitor\RealMonitor\MonitorAgent\obj\Debug\netcoreapp2.2\MonitorAgent.csprojAssemblyReference.cache
+C:\Projects\monitor\RealMonitor\MonitorAgent\obj\Debug\netcoreapp2.2\MonitorAgent.csproj.CoreCompileInputs.cache
+C:\Projects\monitor\RealMonitor\MonitorAgent\obj\Debug\netcoreapp2.2\MonitorAgent.AssemblyInfoInputs.cache
+C:\Projects\monitor\RealMonitor\MonitorAgent\obj\Debug\netcoreapp2.2\MonitorAgent.AssemblyInfo.cs
+C:\Projects\monitor\RealMonitor\MonitorAgent\obj\Debug\netcoreapp2.2\MonitorAgent.dll
+C:\Projects\monitor\RealMonitor\MonitorAgent\obj\Debug\netcoreapp2.2\MonitorAgent.pdb
+C:\Projects\monitor\RealMonitor\MonitorAgent\bin\Debug\netcoreapp2.2\Models.dll
+C:\Projects\monitor\RealMonitor\MonitorAgent\bin\Debug\netcoreapp2.2\Models.pdb
+C:\Projects\monitor\RealMonitor\MonitorAgent\obj\Debug\netcoreapp2.2\MonitorAgent.csproj.CopyComplete

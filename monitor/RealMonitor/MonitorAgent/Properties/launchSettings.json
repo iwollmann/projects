@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "MonitorAgent": {
+      "commandName": "Project"
+    }
+  }
+}
